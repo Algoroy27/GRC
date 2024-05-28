@@ -16,3 +16,28 @@ Go to the IAM console.
 - Enter the account ID of the management account.
 - Attach the necessary policies that grant the permissions you want the role to have in the target account.
 - Complete the role creation process and take note of the Role ARN
+
+
+## Step 2: Create IAM Policies in the Management Account
+- Log in to your management account and create a policy that allows assuming the roles created in the target accounts.
+
+- Go to the IAM console.
+
+- Click on "Policies" and then "Create policy".
+
+- Add the following JSON to allow assuming roles:
+
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Effect": "Allow",
+      "Action": "sts:AssumeRole",
+      "Resource": [
+        "arn:aws:iam::ACCOUNT_ID_PRODUCTION:role/ROLE_NAME",
+        "arn:aws:iam::ACCOUNT_ID_DEVELOPMENT:role/ROLE_NAME",
+        "arn:aws:iam::ACCOUNT_ID_TEST:role/ROLE_NAME"
+      ]
+    }
+  ]
+}
