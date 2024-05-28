@@ -47,7 +47,3 @@ To get started with the project, explore the `docs/` directory for detailed info
 - **Policy:** One generic IT policy; no formal information security or data governance policies.
 - **Cybersecurity Detection and Response:** No SIEM; IT team responds to antivirus alerts.
 - **Security Education and Awareness:** Basic induction web training for employees.
-
-## License
-
-This project is licensed under the MIT License.
