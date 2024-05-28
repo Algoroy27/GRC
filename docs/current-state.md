@@ -1,4 +1,5 @@
 # Oscorp Current Cybersecurity Posture
+![image](https://github.com/Algoroy27/GRC/assets/137920855/4e6ad7dd-91b6-46ae-9225-e8aab77800f0)
 
 ## Cybersecurity Team
 - **Cybersecurity Analyst:** Generalist, responds to cyber incidents as they arise. Reports to Oscorp’s IT manager.
