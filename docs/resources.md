@@ -9,7 +9,6 @@
 - [Microsoft Defender](https://www.microsoft.com/en-us/microsoft-365/microsoft-defender)
 
 ## Incident Response
-- [SANS Incident Handler's Handbook](https://www.sans.org/white-papers/incident-handlers-handbook/)
 - [NIST Computer Security Incident Handling Guide](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf)
 
 ## Continuous Monitoring
