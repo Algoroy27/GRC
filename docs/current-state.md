@@ -13,7 +13,7 @@
 ### Asset Management
 - IT team maintains a spreadsheet with laptop serial numbers and warranty details.
 - Uses Microsoft Office 365 and relies on SaaS applications.
-- Data is stored in Microsoft Azure cloud.
+- Data is stored in AWS.
 - Secure Operating Environment (SOE) used for imaging laptops with Windows.
 
 ### Business Continuity and Disaster Recovery
@@ -23,7 +23,7 @@
 ### Vulnerability Management
 - Uses Qualys vulnerability scanner on an ad-hoc basis.
 - No formal vulnerability management program.
-- Many high and severe vulnerabilities reported by Qualys.
+- Many high and severe vulnerabilities were reported by Qualys.
 
 ### Risk Management
 - Financial risk activities are performed by a risk team.
@@ -54,7 +54,7 @@
 ### Data Security
 - No DLP solution.
 - Data resides in Microsoft Azure and Office 365.
-- Key critical application is a SaaS service from Horizon Labs.
+The key critical application is a SaaS service from Horizon Labs.
 
 ### Policy
 - One generic IT policy.
