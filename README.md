@@ -26,6 +26,7 @@ The project involves assessing the current cybersecurity posture of Oscorp, iden
 To get started with the project, explore the `docs/` directory for detailed information on each phase of the project.
 
 ## Current State Summary
+![image](https://github.com/Algoroy27/GRC/assets/137920855/d4acaca0-bed0-41d0-8f73-0daf59890b70)
 
 ### Cybersecurity Team
 - **Cybersecurity Analyst:** Generalist, responds to cyber incidents as they arise. Reports to Oscorp’s IT manager.
