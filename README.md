@@ -1,4 +1,4 @@
-# Oscorp GRC Capstone Project
+# GME GRC Capstone Project
 
 This repository contains the deliverables for the GRC capstone project aimed at assessing and improving the cybersecurity maturity of a mock organization, Oscorp, using the NIST Cybersecurity Framework.
 
