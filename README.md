@@ -4,14 +4,14 @@ This repository contains the deliverables for the GRC capstone project aimed at 
 
 ## Project Overview
 
-The project involves assessing the current cybersecurity posture of Oscorp, identifying gaps against the NIST Cybersecurity Framework, and developing an improvement plan to enhance their cybersecurity maturity.
+The project involves assessing the current cybersecurity posture of GME, identifying gaps against the NIST Cybersecurity Framework, and developing an improvement plan to enhance their cybersecurity maturity.
 
 ## Repository Structure
 
 - `docs/` - Contains detailed documentation of the current state, NIST CSF assessment, and the improvement plan.
-  - `current-state.md` - Detailed notes on the current cybersecurity posture of Oscorp.
-  - `nist-csf-assessment.md` - Assessment of Oscorp’s cybersecurity maturity against the NIST Cybersecurity Framework.
-  - `improvement-plan.md` - Plan to address gaps and improve Oscorp's cybersecurity posture.
+  - `current-state.md` - Detailed notes on the current cybersecurity posture of GME.
+  - `nist-csf-assessment.md` - Assessment of GME’s cybersecurity maturity against the NIST Cybersecurity Framework.
+  - `improvement-plan.md` - Plan to address gaps and improve GME's cybersecurity posture.
   - `resources.md` - Additional resources and references used in the project.
 - `src/` - Contains scripts and tools used during the assessment and improvement phases.
   - `scripts/` - Custom scripts developed for the project.
@@ -29,9 +29,9 @@ To get started with the project, explore the `docs/` directory for detailed info
 ![image](https://github.com/Algoroy27/GRC/assets/137920855/d4acaca0-bed0-41d0-8f73-0daf59890b70)
 
 ### Cybersecurity Team
-- **Cybersecurity Analyst:** Generalist, responds to cyber incidents as they arise. Reports to Oscorp’s IT manager.
+- **Cybersecurity Analyst:** Generalist, responds to cyber incidents as they arise. Reports to GME’s IT manager.
 - **Network Engineer:** Manages the firewalls. Reports to the Network Team Leader.
-- **Cybersecurity Consultant:** Your new role at Oscorp, reporting initially to the IT manager.
+- **Cybersecurity Consultant:** Your new role at GME, reporting initially to the IT manager.
 
 ### Cybersecurity Controls
 - **Organizational Governance:** No defined cybersecurity roles or strategy.
