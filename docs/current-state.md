@@ -1,10 +1,10 @@
-# Oscorp Current Cybersecurity Posture
+# GME Current Cybersecurity Posture
 ![image](https://github.com/Algoroy27/GRC/assets/137920855/4e6ad7dd-91b6-46ae-9225-e8aab77800f0)
 
 ## Cybersecurity Team
-- **Cybersecurity Analyst:** Generalist, responds to cyber incidents as they arise. Reports to Oscorp’s IT manager.
+- **Cybersecurity Analyst:** Generalist, responds to cyber incidents as they arise. Reports to GME’s IT manager.
 - **Network Engineer:** Manages the firewalls. Reports to the Network Team Leader.
-- **Cybersecurity Consultant:** Your new role at Oscorp, reporting initially to the IT manager.
+- **Cybersecurity Consultant:** Your new role at GME, reporting initially to the IT manager.
 
 ## Current Cybersecurity Controls
 
