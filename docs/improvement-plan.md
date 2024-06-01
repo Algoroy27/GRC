@@ -2,7 +2,7 @@
 ![image](https://github.com/Algoroy27/GRC/assets/137920855/a65380a7-2dd8-48ad-9c1b-1b7841799c7b)
 
 
-Based on the NIST CSF assessment, the following improvement plan has been developed to enhance Oscorp's cybersecurity posture.
+Based on the NIST CSF assessment, the following improvement plan has been developed to enhance GME's cybersecurity posture.
 
 ## Governance
 
